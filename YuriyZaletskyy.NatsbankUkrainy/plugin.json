@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Exchange rate providers",
+  "FriendlyName": "National Bank of Ukraine provider",
+  "SystemName": "CurrencyExchange.UAH",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.00" ],
+  "Author": "Yuriy Zaletskyy",
+  "DisplayOrder": 2,
+  "FileName": "ExchangeRate.UkrNationalBankExchangeRate.dll",
+  "Description": "This plugin allows getting exchange rates NBU (National Bank of Ukraine)"
+}
